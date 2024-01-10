@@ -73,6 +73,9 @@ div {
     height: 9.2rem;
     font-size: 54px;
     text-align: center;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
 }
 
 .play{
